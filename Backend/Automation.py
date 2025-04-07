@@ -216,4 +216,5 @@ async def Automation(commands: list[str]):
     return True
 
 if __name__ == "__main__":
-    asyncio.run(Automation())
+    while True:
+        asyncio.run(Automation(input("Enter commands: ").split(",")))

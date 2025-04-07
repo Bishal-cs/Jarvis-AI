@@ -1014,5 +1014,29 @@
     {
         "role": "assistant",
         "content": "Gulab ko chahie! That's a beautiful phrase! Gulab, or roses, are indeed lovely!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis kaise ho."
+    },
+    {
+        "role": "assistant",
+        "content": "Namaste! Main theek hun, dhanyavad! I'm doing well, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! I'm doing well, thanks for asking! It's Saturday, March 22, 2025, and the time is 07:37:13. I'm happy to be chatting with you!"
+    },
+    {
+        "role": "user",
+        "content": "It's great."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm glad to hear that! It's always great to have a positive and enthusiastic conversation!"
     }
 ]
